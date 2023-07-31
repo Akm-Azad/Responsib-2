@@ -146,11 +146,17 @@ ul li a:hover {
 
 .image {
     display: flex;
-    justify-content: center;
-    width: 0%;
-
-
+    align-items:flex-end;
+    margin-left: 50px;
 }
+.image img{
+/*    
+    align-items:flex-end;
+    margin-left: 50px; */
+}
+
+
+
 
 /* End Top Body  */
 /* Start Responsive Top-Body  */
